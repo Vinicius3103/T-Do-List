@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Lista de Tarefas",
+  "description": "Um gerenciador de tarefas simples e elegante com suporte a categorias inteligentes, exclusão protegida e visualizações flexíveis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
